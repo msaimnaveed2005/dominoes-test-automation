@@ -6,3 +6,6 @@ dist/
 docs/_build/
 venv/
 Demo.mp4
+.venv/
+.pytest_cache/
+*.egg-info/
